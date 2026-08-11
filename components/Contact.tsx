@@ -15,8 +15,8 @@ const Contact: React.FC = () => {
     window.open(whatsappUrl, '_blank');
   };
 
-  const emailSubject = "Solicito información sobre el diplomado Luxury Management 2026";
-  const emailBody = "Hola, solicito información detallada del programa del diplomado Luxury Management 2026 así como de costes y opciones de pago";
+  const emailSubject = "Solicito información sobre el diplomado Luxury Management 2027";
+  const emailBody = "Hola, solicito información detallada del programa del diplomado Luxury Management 2027 así como de costes y opciones de pago";
   const mailtoUrl = `mailto:contacto@ielujo.com?subject=${encodeURIComponent(emailSubject)}&body=${encodeURIComponent(emailBody)}`;
 
   return (
@@ -30,7 +30,7 @@ const Contact: React.FC = () => {
             </div>
             <h2 className="font-serif text-4xl md:text-5xl text-brand-navy mb-6">Inscríbete hoy</h2>
             <p className="text-gray-600 mb-8 text-lg">
-              Forma parte de la 10ª generación de líderes en la industria del lujo. 
+              Forma parte de la 11ª generación de líderes en la industria del lujo. 
             </p>
             
             <div className="space-y-4">
@@ -80,7 +80,7 @@ const Contact: React.FC = () => {
              />
              <h3 className="font-serif text-xl text-brand-navy mb-2">Reserva tu lugar</h3>
              <p className="text-xs text-gray-500 mb-6">
-               Recibe el brochure oficial 2026 y facilidades de pago.
+               Recibe el brochure oficial 2027 y facilidades de pago.
              </p>
              <form onSubmit={handleSubmit} className="space-y-4 relative z-10 text-left">
                <input 
