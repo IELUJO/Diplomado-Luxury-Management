@@ -1,9 +1,9 @@
 import { Module, Professor } from './types';
 
 export const PROGRAM_INFO = {
-  generation: "10ª Generación",
-  startDate: "7 de marzo de 2026",
-  endDate: "16 de mayo de 2026",
+  generation: "11ª Generación",
+  startDate: "6 de marzo de 2027",
+  endDate: "22 de mayo de 2027",
   duration: "80 horas",
   schedule: "Sábados 8:00 A.M. a 3:00 P.M.",
   modality: "Online en vivo + 3 clases híbridas",
