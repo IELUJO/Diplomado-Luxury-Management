@@ -12,7 +12,7 @@ const ProgramDetails: React.FC = () => {
           <h2 className="font-serif text-3xl md:text-4xl text-brand-navy mb-6">Excelencia Académica en el Lujo</h2>
           <div className="w-24 h-1 bg-brand-gold mx-auto mb-8"></div>
           <p className="text-gray-600 text-lg leading-relaxed mb-8">
-            El <strong>Instituto Europeo del Lujo (IELujo)</strong>, líder en la educación sobre el lujo en Iberoamérica, en alianza estratégica con la <strong>Universidad Anáhuac México</strong>, presenta la 10ª edición de su programa insignia. 
+            El <strong>Instituto Europeo del Lujo (IELujo)</strong>, líder en la educación sobre el lujo en Iberoamérica, en alianza estratégica con la <strong>Universidad Anáhuac México</strong>, presenta la 11ª edición de su programa insignia. 
             Con cerca de 400 alumnos certificados desde 2017, este diplomado responde a las necesidades reales de los empresarios y responsables de marcas de lujo en la región.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
