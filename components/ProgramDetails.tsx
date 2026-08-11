@@ -67,7 +67,7 @@ const ProgramDetails: React.FC = () => {
 
           {/* Right: Technical Details Grid */}
           <div className="space-y-6">
-             <h3 className="font-serif text-3xl text-brand-navy mb-6">Detalles de la 10ª Generación</h3>
+             <h3 className="font-serif text-3xl text-brand-navy mb-6">Detalles de la 11ª Generación</h3>
              
              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div className="bg-brand-navy p-6 rounded text-white transform hover:-translate-y-1 transition-transform">
