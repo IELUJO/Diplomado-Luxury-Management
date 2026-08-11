@@ -65,10 +65,10 @@ const Faculty: React.FC = () => {
                             <span className="text-[11px] font-black tracking-[0.4em] uppercase">Ecosistema Académico IELujo</span>
                         </div>
                         <p className="text-white text-xl md:text-3xl leading-relaxed font-serif mb-12 max-w-5xl">
-                            El <span className="text-brand-gold font-bold">Diplomado Luxury Management</span> forma parte del <span className="text-brand-gold-light italic underline decoration-brand-gold/30 underline-offset-8">Máster en Creación y Gestión de Marcas de Lujo</span> junto con los diplomados 
+                            El <span className="text-brand-gold font-bold">Diplomado Luxury Management</span> forma parte del <span className="text-brand-gold-light italic underline decoration-brand-gold/30 underline-offset-8">Máster en Global Luxury Business</span> junto con los diplomados 
                             <br className="hidden md:block" />
-                            <span className="text-brand-gold font-bold"> Creación de Marcas de Lujo y Procesos de Luxurización (30 mayo 2026)</span> y 
-                            <span className="text-brand-gold font-bold"> Luxury Sales (5 de Septiembre 2026)</span>.
+                            <span className="text-brand-gold font-bold"> Luxury Sales (5 sep — 14 nov 2026)</span> y 
+                            <span className="text-brand-gold font-bold"> Luxury Experience & Service (5 jun — 14 ago 2027)</span>.
                         </p>
                         <div className="w-24 h-px bg-brand-gold/50 mb-10"></div>
                         <div className="bg-brand-gold/5 p-8 md:p-12 border border-brand-gold/30 rounded-sm backdrop-blur-sm">
@@ -76,7 +76,7 @@ const Faculty: React.FC = () => {
                                 Cada diplomado otorga una <span className="text-brand-gold font-bold">certificación independiente</span> y al cursar los 3 se obtiene añadidamente el título:
                             </p>
                             <span className="text-brand-gold-light font-serif italic text-4xl md:text-6xl block mt-8 drop-shadow-[0_2px_10px_rgba(197,160,89,0.3)]">
-                                Máster en Creación y Gestión de Marcas de Lujo
+                                Máster en Global Luxury Business
                             </span>
                         </div>
                     </div>
