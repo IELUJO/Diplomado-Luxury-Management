@@ -53,7 +53,7 @@ const Hero: React.FC = () => {
              <div className="grid grid-cols-3 gap-2 md:gap-8 text-center divide-x divide-white/10">
                 <div className="px-1 md:px-4">
                     <p className="text-brand-gold text-[8px] md:text-[10px] uppercase tracking-widest mb-1 md:mb-2 font-black">Inicio</p>
-                    <p className="font-serif text-sm md:text-2xl whitespace-nowrap">7 marzo 2026</p>
+                    <p className="font-serif text-sm md:text-2xl whitespace-nowrap">6 marzo 2027</p>
                 </div>
                 <div className="px-1 md:px-4">
                     <p className="text-brand-gold text-[8px] md:text-[10px] uppercase tracking-widest mb-1 md:mb-2 font-black">Duración</p>
@@ -67,7 +67,7 @@ const Hero: React.FC = () => {
           </div>
 
           <a 
-            href="https://wa.me/525561039849?text=Hola%2C%20quiero%20que%20me%20env%C3%ADen%20una%20brochure%20del%20Diplomado%20Luxury%20Management%202026.%20Gracias"
+            href="https://wa.me/525561039849?text=Hola%2C%20quiero%20que%20me%20env%C3%ADen%20una%20brochure%20del%20Diplomado%20Luxury%20Management%202027.%20Gracias"
             target="_blank"
             rel="noopener noreferrer"
             className="group relative inline-flex items-center justify-center px-10 md:px-16 py-4 md:py-5 text-[10px] md:text-xs font-black text-white transition-all duration-300 bg-brand-gold font-sans tracking-[0.2em] md:tracking-[0.3em] hover:bg-white hover:text-brand-navy focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-gold shadow-2xl hover:shadow-brand-gold/50 uppercase rounded-sm"
