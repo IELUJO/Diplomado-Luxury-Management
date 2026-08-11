@@ -48,7 +48,7 @@ function App() {
 
       {/* Floating WhatsApp Business Button - Universal */}
       <a 
-        href="https://wa.me/525561039849?text=Hola%2C%20solicito%20informaci%C3%B3n%20sobre%20el%20Diplomado%20Luxury%20Management%202026." 
+        href="https://wa.me/525561039849?text=Hola%2C%20solicito%20informaci%C3%B3n%20sobre%20el%20Diplomado%20Luxury%20Management%202027."
         target="_blank" 
         rel="noopener noreferrer"
         className="fixed bottom-8 left-8 z-50 bg-[#25D366] text-white p-4 rounded-full shadow-[0_10px_25px_rgba(37,211,102,0.4)] hover:scale-110 transition-all duration-300 group flex items-center justify-center"
