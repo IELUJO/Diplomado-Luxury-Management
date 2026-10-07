@@ -8,7 +8,7 @@ const Hero: React.FC = () => {
       {/* Background Image with High Contrast Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://www.ielujo.com/wp-content/uploads/2025/12/IMG_20240413_112303-scaled.jpg" 
+          src="/images/hero-clase-anahuac.jpg" 
           alt="Luxury Education Background" 
           className="w-full h-full object-cover animate-fade-in scale-105"
         />
